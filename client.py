@@ -206,4 +206,4 @@ def main():
 if __name__ == "__main__":
     main()
     priority()
-    client.run('MTE5MjUwNTMxODIzMjU3MjAzNg.GaboHc.bpBfRinQWYgvKh702p8ijXtQXizgOxBCBV8AV4')
+    client.run('discord token')
